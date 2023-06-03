@@ -1,4 +1,6 @@
 school bus
 travelbus
 mini bus
+college bus
+caravn
 etc
